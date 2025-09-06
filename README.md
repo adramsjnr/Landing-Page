@@ -6,9 +6,7 @@ This is a single-page landing page for an Ancient Scrolls Club. The primary goal
 
 A main landing page (index.html) that introduces a book club for ancient texts.
 
--The page is organized into distinct sections: a Hero Section, an Information Section, a Quote Section, a Call-to-Action, and a Footer.
--A single external stylesheet (style.css) is used to apply all the styling consistently across the page.
--The hero section includes a placeholder image to demonstrate proper image embedding.
+-The page is organized into distinct sections: a hero section, an information section, a quote section, a call-to-action, and a footer. A single external stylesheet has beed used to apply all the styling consistently across the page.
 
 ## Skills Demonstrated
 
